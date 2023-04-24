@@ -1,0 +1,26 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.headerbar {
+    background-color: black;
+    padding: 0.2rem;
+}
+
+.headertext{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-size: small;
+    text-align: center;
+}
+
+.banner-mainbar{
+    width: 100%;
+    height: 450px;
+}
+
+.mainbar h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
